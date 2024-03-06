@@ -2,7 +2,7 @@
 Development project for Dimensions
 
 
-4 classes
+4 classes:
 Medic - healing based.
 Scientist - do more science tasks.
 Elite - slower, but main assault power.
